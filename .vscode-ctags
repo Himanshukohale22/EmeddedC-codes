@@ -1,0 +1,49 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/himanshu/Documents/c/C-Embedded-C/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+MAX	string.c	/^#define MAX /;"	d	file:
+a	tokerns.c	/^int a ,b ;$/;"	v	typeref:typename:int
+accesingArray	pointers_app.c	/^void accesingArray(){$/;"	f	typeref:typename:void
+arithematic	pointers.c	/^void arithematic(){$/;"	f	typeref:typename:void
+arithematic	tokerns.c	/^void arithematic(a,b){$/;"	f	typeref:typename:void
+arr	array.c	/^int arr[10] = { 15, 25, 35, 45, 55 };$/;"	v	typeref:typename:int[10]
+arraypt	pointers.c	/^void arraypt(){$/;"	f	typeref:typename:void
+assignoperators	tokerns.c	/^void assignoperators(int a, int b){$/;"	f	typeref:typename:void
+b	tokerns.c	/^int a ,b ;$/;"	v	typeref:typename:int
+checkFunciton	checknuprimeeven.c	/^void checkFunciton(number){$/;"	f	typeref:typename:void
+example	pointers.c	/^void example(){$/;"	f	typeref:typename:void
+factorial	factorial.c	/^int factorial(int n){$/;"	f	typeref:typename:int
+fibbonacci	fibonnacci.c	/^void fibbonacci(){$/;"	f	typeref:typename:void
+largest_in_array	array.c	/^void largest_in_array(){$/;"	f	typeref:typename:void
+length	array.c	/^void length(){$/;"	f	typeref:typename:void
+main	DataCSV.C	/^int main(){$/;"	f	typeref:typename:int
+main	Readstring.c	/^int main(){$/;"	f	typeref:typename:int
+main	array.c	/^int main(){$/;"	f	typeref:typename:int
+main	checknuprimeeven.c	/^int main(){$/;"	f	typeref:typename:int
+main	commandlinearguments.c	/^int main(int argc, char* argv[])$/;"	f	typeref:typename:int
+main	factorial.c	/^int main(){$/;"	f	typeref:typename:int
+main	fibonnacci.c	/^int main(int argc, char const *argv[])$/;"	f	typeref:typename:int
+main	functionC.c	/^int main(){ $/;"	f	typeref:typename:int
+main	hello.c	/^int main(){$/;"	f	typeref:typename:int
+main	pointers.c	/^int main(){$/;"	f	typeref:typename:int
+main	serialData.C	/^int main() {$/;"	f	typeref:typename:int
+main	string.c	/^int main()$/;"	f	typeref:typename:int
+main	strtok-function.c	/^int main(void){$/;"	f	typeref:typename:int
+main	swap.c	/^int main() $/;"	f	typeref:typename:int
+main	switchcase-statements.c	/^int main(void){$/;"	f	typeref:typename:int
+main	tokerns.c	/^int main() {$/;"	f	typeref:typename:int
+myStrings	Readstring.c	/^char *myStrings[] = {"This is string 1", "This is string 2", "This is string 3",$/;"	v	typeref:typename:char * []
+number	checknuprimeeven.c	/^int number ;$/;"	v	typeref:typename:int
+ptr	pointers.c	/^int* ptr ;          \/\/ pointer Declaration$/;"	v	typeref:typename:int *
+relationoperator	tokerns.c	/^void relationoperator(int a,int b){             \/\/ if statements$/;"	f	typeref:typename:void
+reverse_array	array.c	/^void reverse_array(){$/;"	f	typeref:typename:void
+swap	swap.c	/^void swap(int a,int b){     \/\/ swapping using minor changes.  $/;"	f	typeref:typename:void
+var	pointers.c	/^int var = 99 ;       \/\/ variable declaration $/;"	v	typeref:typename:int
