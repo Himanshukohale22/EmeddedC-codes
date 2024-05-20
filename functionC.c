@@ -18,12 +18,18 @@ The syntax of function can be divided into 3 aspects:
 
 // return_type name_of_the_function (parameter_1, parameter_2);
 
+
+
+void Students(char names);
+void Students(int ID);
+
 int main(){ 
-                        // call function 
+
 }
 
 
-// return_type function_name (para1_type para1_name, para2_type para2_name)
-{
-    // body of the function
+void Students(names){
+
 }
+
+

@@ -59,6 +59,7 @@
   "stm32-for-vscode.openOCDPath": false,
   "files.associations": {
     "DataCSV.C": "cpp",
-    "serialData.C": "cpp"
+    "serialData.C": "cpp",
+    "ARROW.C": "cpp"
   }
 }

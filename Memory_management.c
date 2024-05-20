@@ -26,7 +26,7 @@ Dynamic memory is memory that is allocated after the program starts running.
 
 
 Functions 
-- malloc(size)    // size in bytes 
+- malloc(size)           // size in bytes 
 - calloc(ammount,size)
 - relloc(pointer,size)  //here pointer is for memory add 
  
