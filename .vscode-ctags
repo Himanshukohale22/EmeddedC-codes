@@ -1,0 +1,1103 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/himanshu/Documents/c/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+Ayes	C-Embedded-C/Enum-basic.c	/^    Ayes = 1,                  \/\/ default value for 1st variable is 0$/;"	e	enum:Election_vote	file:
+BSIZE	c-examples/c-example-code/file_number_average.c	/^#define BSIZE /;"	d	file:
+BSIZE	c-examples/c-example-code/find_max_file_value.c	/^#define BSIZE /;"	d	file:
+BUFFER_SIZE	c-examples/c-example-code/dynamic_array_of_strings.c	/^#define BUFFER_SIZE /;"	d	file:
+BUFFER_SIZE	c-examples/c-example-code/if_elif_else.c	/^#define BUFFER_SIZE /;"	d	file:
+BUFFER_SIZE	c-examples/c-example-code/ifdef_ifndef.c	/^  #define BUFFER_SIZE /;"	d	file:
+BUFFER_SIZE	c-examples/c-example-code/infinite_buffer.c	/^#define BUFFER_SIZE /;"	d	file:
+BUFFER_SIZE	c-examples/c-example-code/integer_input.c	/^#define BUFFER_SIZE /;"	d	file:
+BUFFER_SIZE	c-examples/c-example-code/write_input_to_file.c	/^#define BUFFER_SIZE /;"	d	file:
+Button	c-examples/c-example-code/enum.c	/^typedef enum button { ON, OFF } Button;$/;"	t	typeref:enum:button	file:
+COLS	c-examples/c-example-code/fill_2d_random.c	/^#define COLS /;"	d	file:
+COLS	c-examples/c-example-code/init_2darray_user_input.c	/^#define COLS /;"	d	file:
+COLS	c-examples/c-example-code/matrix_addition.c	/^#define COLS /;"	d	file:
+COLS	c-examples/c-example-code/matrix_equality.c	/^#define COLS /;"	d	file:
+COLS	c-examples/c-example-code/matrix_subtraction.c	/^#define COLS /;"	d	file:
+COLS	c-examples/c-example-code/ouput_row_2D_array.c	/^#define COLS /;"	d	file:
+COLS	c-examples/c-example-code/output_col_2D_array.c	/^#define COLS /;"	d	file:
+COLS	c-examples/c-example-code/print_2d_array.c	/^#define COLS /;"	d	file:
+COLS	c-examples/c-example-code/set_random_2d_array_indexes.c	/^#define COLS /;"	d	file:
+COLS	c-examples/c-example-code/shuffle_2darray.c	/^#define COLS /;"	d	file:
+COLS	c-examples/c-example-code/swap_cols.c	/^#define COLS /;"	d	file:
+COLS	c-examples/c-example-code/swap_rows.c	/^#define COLS /;"	d	file:
+COLS	c-examples/c-example-code/twod_array.c	/^#define COLS /;"	d	file:
+COLUMNS	c-examples/c-example-code/col_sum_avg_2darray.c	/^#define COLUMNS /;"	d	file:
+COLUMNS	c-examples/c-example-code/readfile_into_2d_array.c	/^#define COLUMNS /;"	d	file:
+COLUMNS	c-examples/c-example-code/row_sum_avg_2darray.c	/^#define COLUMNS /;"	d	file:
+COURSE_H	c-examples/c-example-code/include_guards/course.h	/^#define COURSE_H /;"	d
+Course	c-examples/c-example-code/include_guards/course.h	/^} Course;$/;"	t	typeref:struct:__anonf97330350108
+DEBUG_MODE	c-examples/c-example-code/ifdef_ifndef.c	/^#define DEBUG_MODE$/;"	d	file:
+DEBUG_OUTPUT	c-examples/c-example-code/activate_debug_output.c	/^#define DEBUG_OUTPUT /;"	d	file:
+DECK_SIZE	c-examples/c-example-code/shuffle_array.c	/^#define DECK_SIZE /;"	d	file:
+Data	c-examples/c-example-code/struct.c	/^} Data;$/;"	t	typeref:struct:__anon2b3de8cc0308	file:
+Data	c-examples/c-example-code/unions.c	/^union Data$/;"	u	file:
+Data2	c-examples/c-example-code/unions.c	/^struct Data2$/;"	s	file:
+Day	c-examples/c-example-code/enum.c	/^enum Day { Monday, Tuesday = 9, Wednesday, Thursday, Friday = 20, $/;"	g	file:
+Election_vote	C-Embedded-C/Enum-basic.c	/^enum Election_vote {$/;"	g	file:
+FALSE	c-examples/c-example-code/bool.c	/^#define FALSE /;"	d	file:
+FILENAME_SIZE	c-examples/c-example-code/add_file_line_numbers.c	/^#define FILENAME_SIZE /;"	d	file:
+FILENAME_SIZE	c-examples/c-example-code/delete_line.c	/^#define FILENAME_SIZE /;"	d	file:
+FILENAME_SIZE	c-examples/c-example-code/delete_lines_containing_chars.c	/^#define FILENAME_SIZE /;"	d	file:
+FILENAME_SIZE	c-examples/c-example-code/delete_matching_lines.c	/^#define FILENAME_SIZE /;"	d	file:
+FILENAME_SIZE	c-examples/c-example-code/read_line.c	/^#define FILENAME_SIZE /;"	d	file:
+FILENAME_SIZE	c-examples/c-example-code/replace_line.c	/^#define FILENAME_SIZE /;"	d	file:
+FILENAME_SIZE	c-examples/c-example-code/write_specific.c	/^#define FILENAME_SIZE /;"	d	file:
+FUNC	c-examples/c-example-code/if_elif_else.c	/^#define FUNC(/;"	d	file:
+Friday	c-examples/c-example-code/enum.c	/^enum Day { Monday, Tuesday = 9, Wednesday, Thursday, Friday = 20, $/;"	e	enum:Day	file:
+HEADS	c-examples/c-example-code/coin_toss.c	/^typedef enum coin {HEADS, TAILS} coin;$/;"	e	enum:coin	file:
+Himanshu	C-Embedded-C/struc-basic.c	/^} Himanshu;$/;"	t	typeref:struct:__anonb4f2b7af0108	file:
+INSTRUCTION	c-examples/c-example-code/token_pasting_operator.c	/^#define INSTRUCTION(/;"	d	file:
+Info	c-examples/c-example-code/unions.c	/^} Info;$/;"	t	typeref:struct:__anon207f29430108	file:
+Instruction	c-examples/c-example-code/token_pasting_operator.c	/^} Instruction;$/;"	t	typeref:struct:__anone0ad4d280108	file:
+LENGTH	c-examples/c-example-code/comments.c	/^#define LENGTH /;"	d	file:
+LENGTH	c-examples/c-example-code/constants.c	/^#define LENGTH /;"	d	file:
+LENGTH	c-examples/c-example-code/find_array_length.c	/^#define LENGTH(/;"	d	file:
+LENGTH	c-examples/c-example-code/tmpfile.c	/^#define LENGTH /;"	d	file:
+LOWER	c-examples/c-example-code/file_to_dynamic_string_optimized.c	/^#define LOWER /;"	d	file:
+M	c-examples/c-example-code/matrix_multiplication.c	/^#define M /;"	d	file:
+M	c-examples/c-example-code/matrix_transpose.c	/^#define M /;"	d	file:
+M	c-examples/c-example-code/twod_array.c	/^#define M /;"	d	file:
+M2_PER_LITRE	c-examples/c-example-code/litres_of_paint.c	/^#define M2_PER_LITRE /;"	d	file:
+MAX	C-Embedded-C/string.c	/^#define MAX /;"	d	file:
+MAX	c-examples/c-example-code/function_like_macros.c	/^#define MAX /;"	d	file:
+MAX	c-examples/c-example-code/join.c	/^#define MAX /;"	d	file:
+MAX_ANSWER	c-examples/c-example-code/quiz_game.c	/^#define MAX_ANSWER /;"	d	file:
+MAX_CAPACITY	c-examples/c-example-code/delete_array_element.c	/^#define MAX_CAPACITY /;"	d	file:
+MAX_CAPACITY	c-examples/c-example-code/insert_array_value.c	/^#define MAX_CAPACITY /;"	d	file:
+MAX_LEN	c-examples/c-example-code/file_lines_to_string_array.c	/^#define MAX_LEN /;"	d	file:
+MAX_LINE	c-examples/c-example-code/add_file_line_numbers.c	/^#define MAX_LINE /;"	d	file:
+MAX_LINE	c-examples/c-example-code/append_input_to_file.c	/^#define MAX_LINE /;"	d	file:
+MAX_LINE	c-examples/c-example-code/delete_line.c	/^#define MAX_LINE /;"	d	file:
+MAX_LINE	c-examples/c-example-code/delete_lines_containing_chars.c	/^#define MAX_LINE /;"	d	file:
+MAX_LINE	c-examples/c-example-code/delete_matching_lines.c	/^#define MAX_LINE /;"	d	file:
+MAX_LINE	c-examples/c-example-code/read_line.c	/^#define MAX_LINE /;"	d	file:
+MAX_LINE	c-examples/c-example-code/replace_line.c	/^#define MAX_LINE /;"	d	file:
+MAX_LINE	c-examples/c-example-code/write_specific.c	/^#define MAX_LINE /;"	d	file:
+MAX_LINES	c-examples/c-example-code/file_lines_to_string_array.c	/^#define MAX_LINES /;"	d	file:
+MAX_QUESTION	c-examples/c-example-code/quiz_game.c	/^#define MAX_QUESTION /;"	d	file:
+MORE_CHARS	c-examples/c-example-code/files_lines_to_dynamic_array.c	/^#define MORE_CHARS /;"	d	file:
+MORE_LINES	c-examples/c-example-code/files_lines_to_dynamic_array.c	/^#define MORE_LINES /;"	d	file:
+Monday	c-examples/c-example-code/enum.c	/^enum Day { Monday, Tuesday = 9, Wednesday, Thursday, Friday = 20, $/;"	e	enum:Day	file:
+N	c-examples/c-example-code/matrix_multiplication.c	/^#define N /;"	d	file:
+N	c-examples/c-example-code/matrix_transpose.c	/^#define N /;"	d	file:
+N	c-examples/c-example-code/twod_array.c	/^#define N /;"	d	file:
+NDEBUG	c-examples/c-example-code/dangling_pointers.c	/^#define NDEBUG$/;"	d	file:
+Node	c-examples/c-example-code/queue_linked_list.c	/^typedef struct Node$/;"	s	file:
+Node	c-examples/c-example-code/queue_linked_list.c	/^} Node;$/;"	t	typeref:struct:Node	file:
+Noes	C-Embedded-C/Enum-basic.c	/^    Noes ,                  \/\/ value = 1 and similarly for others $/;"	e	enum:Election_vote	file:
+OFF	c-examples/c-example-code/enum.c	/^typedef enum button { ON, OFF } Button;$/;"	e	enum:button	file:
+ON	c-examples/c-example-code/enum.c	/^typedef enum button { ON, OFF } Button;$/;"	e	enum:button	file:
+OS	c-examples/c-example-code/if_elif_else.c	/^#define OS$/;"	d	file:
+P	c-examples/c-example-code/matrix_multiplication.c	/^#define P /;"	d	file:
+P	c-examples/c-example-code/twod_array.c	/^#define P /;"	d	file:
+PAPER	c-examples/c-example-code/rock_paper_scissors.c	/^#define PAPER /;"	d	file:
+PI	c-examples/c-example-code/circle_circumference.c	/^#define PI /;"	d	file:
+PI	c-examples/c-example-code/cylinder_volume.c	/^#define PI /;"	d	file:
+PI	c-examples/c-example-code/function_like_macros.c	/^#define PI /;"	d	file:
+PI	c-examples/c-example-code/volume_of_a_sphere.c	/^#define PI /;"	d	file:
+POSSIBLE_CHARACTERS	c-examples/c-example-code/generate_random_character.c	/^#define POSSIBLE_CHARACTERS /;"	d	file:
+Point	c-examples/c-example-code/arrow_operator.c	/^} Point;$/;"	t	typeref:struct:__anoneed18d9d0108	file:
+Point	c-examples/c-example-code/dynamic_array_of_structs.c	/^} Point;$/;"	t	typeref:struct:__anon5928a2d50108	file:
+Point	c-examples/c-example-code/struct.c	/^} Point;$/;"	t	typeref:struct:__anon2b3de8cc0208	file:
+Queue	c-examples/c-example-code/queue_linked_list.c	/^} Queue;$/;"	t	typeref:struct:__anoncb85d37d0108	file:
+ROCK	c-examples/c-example-code/rock_paper_scissors.c	/^#define ROCK /;"	d	file:
+ROWS	c-examples/c-example-code/col_sum_avg_2darray.c	/^#define ROWS /;"	d	file:
+ROWS	c-examples/c-example-code/fill_2d_random.c	/^#define ROWS /;"	d	file:
+ROWS	c-examples/c-example-code/init_2darray_user_input.c	/^#define ROWS /;"	d	file:
+ROWS	c-examples/c-example-code/matrix_addition.c	/^#define ROWS /;"	d	file:
+ROWS	c-examples/c-example-code/matrix_equality.c	/^#define ROWS /;"	d	file:
+ROWS	c-examples/c-example-code/matrix_subtraction.c	/^#define ROWS /;"	d	file:
+ROWS	c-examples/c-example-code/ouput_row_2D_array.c	/^#define ROWS /;"	d	file:
+ROWS	c-examples/c-example-code/output_col_2D_array.c	/^#define ROWS /;"	d	file:
+ROWS	c-examples/c-example-code/print_2d_array.c	/^#define ROWS /;"	d	file:
+ROWS	c-examples/c-example-code/readfile_into_2d_array.c	/^#define ROWS /;"	d	file:
+ROWS	c-examples/c-example-code/row_sum_avg_2darray.c	/^#define ROWS /;"	d	file:
+ROWS	c-examples/c-example-code/set_random_2d_array_indexes.c	/^#define ROWS /;"	d	file:
+ROWS	c-examples/c-example-code/shuffle_2darray.c	/^#define ROWS /;"	d	file:
+ROWS	c-examples/c-example-code/swap_cols.c	/^#define ROWS /;"	d	file:
+ROWS	c-examples/c-example-code/swap_rows.c	/^#define ROWS /;"	d	file:
+ROWS	c-examples/c-example-code/twod_array.c	/^#define ROWS /;"	d	file:
+Response	c-examples/c-example-code/libcurl_examples/store_http_response_into_string.c	/^} Response;$/;"	t	typeref:struct:__anon37d7c42a0108	file:
+SCISSORS	c-examples/c-example-code/rock_paper_scissors.c	/^#define SCISSORS /;"	d	file:
+SIZE	c-examples/c-example-code/find_array_length.c	/^#define SIZE /;"	d	file:
+STRING_BUFFER_LENGTH	c-examples/c-example-code/initialize_string_array_with_user_input.c	/^#define STRING_BUFFER_LENGTH /;"	d	file:
+STUDENT_H	c-examples/c-example-code/include_guards/student.h	/^#define STUDENT_H$/;"	d
+Saturday	c-examples/c-example-code/enum.c	/^          Saturday, Sunday};$/;"	e	enum:Day	file:
+Set	c-examples/c-example-code/sets.c	/^} Set;$/;"	t	typeref:struct:__anonbecea1860108	file:
+Stack	c-examples/c-example-code/stack.c	/^} Stack;$/;"	t	typeref:struct:__anonba40991d0108	file:
+Student	c-examples/c-example-code/array_of_structs_to_csv.c	/^} Student;$/;"	t	typeref:struct:__anon0c69fdbe0108	file:
+Student	c-examples/c-example-code/csv_to_struct_array.c	/^} Student;$/;"	t	typeref:struct:__anon1327d6d70108	file:
+Student	c-examples/c-example-code/include_guards/student.h	/^} Student;$/;"	t	typeref:struct:__anoneb49f18b0108
+Student	c-examples/c-example-code/own_memcpy.c	/^} Student;$/;"	t	typeref:struct:__anonfae753050108	file:
+Student	c-examples/c-example-code/struct.c	/^} Student;$/;"	t	typeref:struct:__anon2b3de8cc0108	file:
+Student	c-examples/c-example-code/struct_array_binary_file.c	/^} Student;$/;"	t	typeref:struct:__anon669f622d0108	file:
+Students	C-Embedded-C/functionC.c	/^void Students(names){$/;"	f	typeref:typename:void
+Sunday	c-examples/c-example-code/enum.c	/^          Saturday, Sunday};$/;"	e	enum:Day	file:
+TAILS	c-examples/c-example-code/coin_toss.c	/^typedef enum coin {HEADS, TAILS} coin;$/;"	e	enum:coin	file:
+TOTAL_BUFFERS	c-examples/c-example-code/if_elif_else.c	/^#define TOTAL_BUFFERS /;"	d	file:
+TOTAL_QUESTIONS	c-examples/c-example-code/quiz_game.c	/^#define TOTAL_QUESTIONS /;"	d	file:
+TOTAL_STRINGS	c-examples/c-example-code/initialize_string_array_with_user_input.c	/^#define TOTAL_STRINGS /;"	d	file:
+TOTAL_STUDENTS	c-examples/c-example-code/array_of_structs_to_csv.c	/^#define TOTAL_STUDENTS /;"	d	file:
+TRUE	c-examples/c-example-code/bool.c	/^#define TRUE /;"	d	file:
+Thursday	c-examples/c-example-code/enum.c	/^enum Day { Monday, Tuesday = 9, Wednesday, Thursday, Friday = 20, $/;"	e	enum:Day	file:
+Tuesday	c-examples/c-example-code/enum.c	/^enum Day { Monday, Tuesday = 9, Wednesday, Thursday, Friday = 20, $/;"	e	enum:Day	file:
+UPPER	c-examples/c-example-code/file_to_dynamic_string_optimized.c	/^#define UPPER /;"	d	file:
+VALUE	c-examples/c-example-code/if_elif_else.c	/^  #define VALUE /;"	d	file:
+VERSION_CODE	c-examples/c-example-code/if_elif_else.c	/^#define VERSION_CODE /;"	d	file:
+WINDOWS	c-examples/c-example-code/ifdef_ifndef.c	/^#define WINDOWS$/;"	d	file:
+Wednesday	c-examples/c-example-code/enum.c	/^enum Day { Monday, Tuesday = 9, Wednesday, Thursday, Friday = 20, $/;"	e	enum:Day	file:
+__anon0c69fdbe0108	c-examples/c-example-code/array_of_structs_to_csv.c	/^{$/;"	s	file:
+__anon1327d6d70108	c-examples/c-example-code/csv_to_struct_array.c	/^{$/;"	s	file:
+__anon207f29430108	c-examples/c-example-code/unions.c	/^{$/;"	s	file:
+__anon207f2943020a	c-examples/c-example-code/unions.c	/^  union {$/;"	u	struct:__anon207f29430108	file:
+__anon2b3de8cc0108	c-examples/c-example-code/struct.c	/^{$/;"	s	file:
+__anon2b3de8cc0208	c-examples/c-example-code/struct.c	/^{$/;"	s	file:
+__anon2b3de8cc0308	c-examples/c-example-code/struct.c	/^{$/;"	s	file:
+__anon37d7c42a0108	c-examples/c-example-code/libcurl_examples/store_http_response_into_string.c	/^{$/;"	s	file:
+__anon5928a2d50108	c-examples/c-example-code/dynamic_array_of_structs.c	/^typedef struct {$/;"	s	file:
+__anon669f622d0108	c-examples/c-example-code/struct_array_binary_file.c	/^{$/;"	s	file:
+__anon6d6529890108	c-examples/c-example-code/quiz_game.c	/^{$/;"	s	file:
+__anonb4f2b7af0108	C-Embedded-C/struc-basic.c	/^{$/;"	s	file:
+__anonba40991d0108	c-examples/c-example-code/stack.c	/^{$/;"	s	file:
+__anonbecea1860108	c-examples/c-example-code/sets.c	/^typedef struct {$/;"	s	file:
+__anoncb85d37d0108	c-examples/c-example-code/queue_linked_list.c	/^{$/;"	s	file:
+__anone0ad4d280108	c-examples/c-example-code/token_pasting_operator.c	/^{$/;"	s	file:
+__anoneb49f18b0108	c-examples/c-example-code/include_guards/student.h	/^{$/;"	s
+__anoneed18d9d0108	c-examples/c-example-code/arrow_operator.c	/^typedef struct {$/;"	s	file:
+__anonf97330350108	c-examples/c-example-code/include_guards/course.h	/^{$/;"	s
+__anonfae753050108	c-examples/c-example-code/own_memcpy.c	/^{$/;"	s	file:
+_strcat	c-examples/c-example-code/own_strcat.c	/^char *_strcat(char *destination, const char *source)$/;"	f	typeref:typename:char *
+_strchr	c-examples/c-example-code/own_strchr.c	/^char *_strchr(const char *str, int c)$/;"	f	typeref:typename:char *
+_strncpy	c-examples/c-example-code/strncpy_implementation.c	/^char *_strncpy(char *dest, const char *src, size_t n)$/;"	f	typeref:typename:char *
+_strpbrk	c-examples/c-example-code/strpbrk_implementation.c	/^char *_strpbrk(const char *str1, const char *str2)$/;"	f	typeref:typename:char *
+_strspn	c-examples/c-example-code/own_strspn.c	/^size_t _strspn(const char *str1, const char *str2)$/;"	f	typeref:typename:size_t
+a	C-Embedded-C/tokerns.c	/^int a ,b ;$/;"	v	typeref:typename:int
+accesingArray	C-Embedded-C/pointers_app.c	/^void accesingArray(){$/;"	f	typeref:typename:void
+add	c-examples/c-example-code/array_pass.c	/^void add(int x)$/;"	f	typeref:typename:void
+add	c-examples/c-example-code/basic_library/library.c	/^int add(int x, int y)$/;"	f	typeref:typename:int
+add	c-examples/c-example-code/function_pointers.c	/^double add(double x, double y) { return x + y; }$/;"	f	typeref:typename:double
+add	c-examples/c-example-code/functions.c	/^int add(int a, int b)$/;"	f	typeref:typename:int
+add_instruction	c-examples/c-example-code/token_pasting_operator.c	/^void add_instruction(void)$/;"	f	typeref:typename:void
+add_one	c-examples/c-example-code/extern_share_global_variable/library.c	/^void add_one()$/;"	f	typeref:typename:void
+add_one	c-examples/c-example-code/static_global_variable/library.c	/^void add_one()$/;"	f	typeref:typename:void
+address	C-Embedded-C/struc-basic.c	/^    char address[30] ;          $/;"	m	struct:__anonb4f2b7af0108	typeref:typename:char[30]	file:
+address	C-Embedded-C/struc-basic.c	/^    char address[30] ;          \/\/ if string is using give the size of string oterwise$/;"	m	struct:my_information	typeref:typename:char[30]	file:
+age	C-Embedded-C/struc-basic.c	/^    int age ;               $/;"	m	struct:__anonb4f2b7af0108	typeref:typename:int	file:
+age	C-Embedded-C/struc-basic.c	/^    int age ;               \/\/ integer float and double can be defined and $/;"	m	struct:my_information	typeref:typename:int	file:
+age	c-examples/c-example-code/array_of_structs_to_csv.c	/^  int age;$/;"	m	struct:__anon0c69fdbe0108	typeref:typename:int	file:
+age	c-examples/c-example-code/csv_to_struct_array.c	/^  int age;$/;"	m	struct:__anon1327d6d70108	typeref:typename:int	file:
+age	c-examples/c-example-code/own_memcpy.c	/^  int age;$/;"	m	struct:__anonfae753050108	typeref:typename:int	file:
+age	c-examples/c-example-code/struct.c	/^  int age;$/;"	m	struct:__anon2b3de8cc0108	typeref:typename:int	file:
+age	c-examples/c-example-code/struct_array_binary_file.c	/^  int age;$/;"	m	struct:__anon669f622d0108	typeref:typename:int	file:
+all_unique	c-examples/c-example-code/check_if_all_chars_unique.c	/^bool all_unique(char *string)$/;"	f	typeref:typename:bool
+all_unique2	c-examples/c-example-code/check_if_all_chars_unique.c	/^bool all_unique2(char *string)$/;"	f	typeref:typename:bool
+allocate	c-examples/c-example-code/memory_leaks.c	/^int *allocate()$/;"	f	typeref:typename:int *
+allocate_two	c-examples/c-example-code/return_multiple_dynamic.c	/^void allocate_two(int **a1, int **a2, int length)$/;"	f	typeref:typename:void
+answerA	c-examples/c-example-code/quiz_game.c	/^  char answerA[MAX_ANSWER];$/;"	m	struct:__anon6d6529890108	typeref:typename:char[]	file:
+answerB	c-examples/c-example-code/quiz_game.c	/^  char answerB[MAX_ANSWER];$/;"	m	struct:__anon6d6529890108	typeref:typename:char[]	file:
+answerC	c-examples/c-example-code/quiz_game.c	/^  char answerC[MAX_ANSWER];$/;"	m	struct:__anon6d6529890108	typeref:typename:char[]	file:
+answerD	c-examples/c-example-code/quiz_game.c	/^  char answerD[MAX_ANSWER];$/;"	m	struct:__anon6d6529890108	typeref:typename:char[]	file:
+area	c-examples/c-example-code/function_like_macros.c	/^#define area(/;"	d	file:
+arithematic	C-Embedded-C/pointers.c	/^void arithematic(){$/;"	f	typeref:typename:void
+arithematic	C-Embedded-C/tokerns.c	/^void arithematic(a,b){$/;"	f	typeref:typename:void
+arr	C-Embedded-C/array.c	/^int arr[10] = { 15, 25, 35, 45, 55 };$/;"	v	typeref:typename:int[10]
+array	c-examples/c-example-code/struct.c	/^  int *array;$/;"	m	struct:__anon2b3de8cc0308	typeref:typename:int *	file:
+array_add	c-examples/c-example-code/array_pass.c	/^void array_add(int array[])$/;"	f	typeref:typename:void
+array_add_ptr	c-examples/c-example-code/array_pass.c	/^void array_add_ptr(int *array)$/;"	f	typeref:typename:void
+array_copy	c-examples/c-example-code/array_copy.c	/^int *array_copy(int *array, int length)$/;"	f	typeref:typename:int *
+arraypt	C-Embedded-C/pointers.c	/^void arraypt(){$/;"	f	typeref:typename:void
+assignoperators	C-Embedded-C/tokerns.c	/^void assignoperators(int a, int b){$/;"	f	typeref:typename:void
+average	c-examples/c-example-code/array_of_structs_to_csv.c	/^  double average;$/;"	m	struct:__anon0c69fdbe0108	typeref:typename:double	file:
+average	c-examples/c-example-code/csv_to_struct_array.c	/^  double average;$/;"	m	struct:__anon1327d6d70108	typeref:typename:double	file:
+average	c-examples/c-example-code/own_memcpy.c	/^  double average;$/;"	m	struct:__anonfae753050108	typeref:typename:double	file:
+average	c-examples/c-example-code/recursive_array_average.c	/^double average(double a[], int n)$/;"	f	typeref:typename:double
+average	c-examples/c-example-code/struct_array_binary_file.c	/^  double average;$/;"	m	struct:__anon669f622d0108	typeref:typename:double	file:
+avg	c-examples/c-example-code/array_average.c	/^double avg(double array[], int length)$/;"	f	typeref:typename:double
+b	C-Embedded-C/tokerns.c	/^int a ,b ;$/;"	v	typeref:typename:int
+bad_global_method	c-examples/c-example-code/return_a_string.c	/^void bad_global_method()$/;"	f	typeref:typename:void
+bad_static_method	c-examples/c-example-code/return_a_string.c	/^char *bad_static_method()$/;"	f	typeref:typename:char *
+balance	c-examples/c-example-code/mutex/bank.c	/^int balance = 0;$/;"	v	typeref:typename:int
+balance	c-examples/c-example-code/race_condition_example/bank.c	/^int balance = 0;$/;"	v	typeref:typename:int
+bar	c-examples/c-example-code/do_while_0_macro_pattern.c	/^void bar(int x) { printf("%d\\n", x); }$/;"	f	typeref:typename:void
+binary_search	c-examples/c-example-code/binary_search.c	/^int binary_search(int a[], int e, int l, int r)$/;"	f	typeref:typename:int
+bubble_sort	c-examples/c-example-code/bubble_sort.c	/^void bubble_sort(int a[], int length)$/;"	f	typeref:typename:void
+buffer	c-examples/c-example-code/unions.c	/^  } buffer;$/;"	m	struct:__anon207f29430108	typeref:union:__anon207f29430108::__anon207f2943020a	file:
+button	c-examples/c-example-code/enum.c	/^typedef enum button { ON, OFF } Button;$/;"	g	file:
+calculate_circumference	c-examples/c-example-code/circle_circumference.c	/^double calculate_circumference(double radius)$/;"	f	typeref:typename:double
+capacity	c-examples/c-example-code/stack.c	/^  int capacity;$/;"	m	struct:__anonba40991d0108	typeref:typename:int	file:
+checkFunciton	C-Embedded-C/checknuprimeeven.c	/^void checkFunciton(number){$/;"	f	typeref:typename:void
+check_anagram	c-examples/c-example-code/anagram_checker.c	/^bool check_anagram(char *w1, char *w2)$/;"	f	typeref:typename:bool
+check_palindrome	c-examples/c-example-code/palindrome_recursion.c	/^bool check_palindrome(char *string, int left, int right)$/;"	f	typeref:typename:bool
+check_value	c-examples/c-example-code/comma_operator.c	/^int check_value(int value)$/;"	f	typeref:typename:int
+cleanup	c-examples/c-example-code/abort.c	/^void cleanup()$/;"	f	typeref:typename:void
+cleanup	c-examples/c-example-code/atexit.c	/^void cleanup()$/;"	f	typeref:typename:void
+coin	c-examples/c-example-code/coin_toss.c	/^typedef enum coin {HEADS, TAILS} coin;$/;"	g	file:
+coin	c-examples/c-example-code/coin_toss.c	/^typedef enum coin {HEADS, TAILS} coin;$/;"	t	typeref:enum:coin	file:
+col_swap	c-examples/c-example-code/swap_cols.c	/^void col_swap(int array[ROWS][COLS], int colA, int colB)$/;"	f	typeref:typename:void
+collection	c-examples/c-example-code/stack.c	/^  int *collection;$/;"	m	struct:__anonba40991d0108	typeref:typename:int *	file:
+compare	c-examples/c-example-code/qsort.c	/^int compare(const void *x_void, const void *y_void)$/;"	f	typeref:typename:int
+computation	c-examples/c-example-code/thread_intro.c	/^void *computation(void *add)$/;"	f	typeref:typename:void *
+concat	c-examples/c-example-code/array_concat.c	/^int *concat(int *a1, size_t len1, int *a2, size_t len2)$/;"	f	typeref:typename:int *
+convert	c-examples/c-example-code/binary_to_decimal.c	/^int convert(char *string)$/;"	f	typeref:typename:int
+convert_vowels	c-examples/c-example-code/convert_vowels_uppercase.c	/^void convert_vowels(char *s)$/;"	f	typeref:typename:void
+correct_answer	c-examples/c-example-code/quiz_game.c	/^  char correct_answer;$/;"	m	struct:__anon6d6529890108	typeref:typename:char	file:
+count_char	c-examples/c-example-code/count_char.c	/^int count_char(char *s, char c)$/;"	f	typeref:typename:int
+count_digits	c-examples/c-example-code/count_digits.c	/^int count_digits(char *s)$/;"	f	typeref:typename:int
+count_letters	c-examples/c-example-code/count_letters.c	/^int count_letters(char *s)$/;"	f	typeref:typename:int
+count_lowercase	c-examples/c-example-code/count_lowercase.c	/^int count_lowercase(char *string)$/;"	f	typeref:typename:int
+count_occurrences	c-examples/c-example-code/count_chars_recursion.c	/^int count_occurrences(char *string, char c)$/;"	f	typeref:typename:int
+count_punct	c-examples/c-example-code/count_punct.c	/^int count_punct(char *s)$/;"	f	typeref:typename:int
+count_spaces	c-examples/c-example-code/count_spaces.c	/^int count_spaces(char *string)$/;"	f	typeref:typename:int
+count_unique	c-examples/c-example-code/count_unique.c	/^int count_unique(int a[], int length)$/;"	f	typeref:typename:int
+count_uppercase	c-examples/c-example-code/count_uppercase_letters.c	/^int count_uppercase(char *string)$/;"	f	typeref:typename:int
+count_vowels	c-examples/c-example-code/count_vowels_recursion.c	/^int count_vowels(char *string)$/;"	f	typeref:typename:int
+count_whitespace	c-examples/c-example-code/count_whitespace.c	/^int count_whitespace(char *string)$/;"	f	typeref:typename:int
+countdown	c-examples/c-example-code/direct_vs_indirect_recursion.c	/^void countdown(int n)$/;"	f	typeref:typename:void
+create_dynamic	c-examples/c-example-code/return_multiple_dynamic.c	/^int *create_dynamic(int length)$/;"	f	typeref:typename:int *
+create_matrix	c-examples/c-example-code/return_dynamic_2d_array.c	/^int **create_matrix(int m, int n, int fill_value)$/;"	f	typeref:typename:int **
+create_queue	c-examples/c-example-code/queue_linked_list.c	/^Queue *create_queue()$/;"	f	typeref:typename:Queue *
+create_stack	c-examples/c-example-code/stack.c	/^Stack *create_stack(int capacity)$/;"	f	typeref:typename:Stack *
+cylinder_volume	c-examples/c-example-code/cylinder_volume.c	/^double cylinder_volume(double radius, double height)$/;"	f	typeref:typename:double
+data	c-examples/c-example-code/structure_padding.c	/^struct data$/;"	s	file:
+delay	C-Embedded-C/hello.c	/^void delay(unsigned int milliseconds) {$/;"	f	typeref:typename:void
+delete	c-examples/c-example-code/delete_substring.c	/^void delete(char string[], char substr[])$/;"	f	typeref:typename:void
+deposit	c-examples/c-example-code/mutex/main.c	/^void* deposit(void *amount)$/;"	f	typeref:typename:void *
+deposit	c-examples/c-example-code/race_condition_example/main.c	/^void* deposit(void *amount)$/;"	f	typeref:typename:void *
+dequeue	c-examples/c-example-code/queue_linked_list.c	/^int dequeue(Queue *queue, bool *status)$/;"	f	typeref:typename:int
+description	c-examples/c-example-code/dynamic_array_of_structs.c	/^  char *description;$/;"	m	struct:__anon5928a2d50108	typeref:typename:char *	file:
+destroy_queue	c-examples/c-example-code/queue_linked_list.c	/^void destroy_queue(Queue *queue)$/;"	f	typeref:typename:void
+destroy_stack	c-examples/c-example-code/stack.c	/^void destroy_stack(Stack *stack)$/;"	f	typeref:typename:void
+divide	c-examples/c-example-code/function_pointers.c	/^int divide(int x, int y) { return x \/ y; }$/;"	f	typeref:typename:int
+do_work	c-examples/c-example-code/dangling_pointers.c	/^int do_work(int *ptr)$/;"	f	typeref:typename:int
+dot_product	c-examples/c-example-code/dot_product.c	/^float dot_product(float v1[], float v2[], int length)$/;"	f	typeref:typename:float
+double_round	c-examples/c-example-code/round_double.c	/^double double_round(double value, int decimal_places)$/;"	f	typeref:typename:double
+dump_file	c-examples/c-example-code/clearerr.cpp	/^void dump_file(FILE *file)$/;"	f	typeref:typename:void
+dynamic_string_truncate	c-examples/c-example-code/dynamic_string_truncate.c	/^char *dynamic_string_truncate(char *string, int n)$/;"	f	typeref:typename:char *
+element_product	c-examples/c-example-code/array_element_product.c	/^int element_product(int array[], int length)$/;"	f	typeref:typename:int
+email	C-Embedded-C/struc-basic.c	/^    char email[30] ;            \/\/ error will occure$/;"	m	struct:my_information	typeref:typename:char[30]	file:
+email	C-Embedded-C/struc-basic.c	/^    char email[30] ;  $/;"	m	struct:__anonb4f2b7af0108	typeref:typename:char[30]	file:
+end	c-examples/c-example-code/atexit.c	/^time_t start, end;$/;"	v	typeref:typename:time_t
+endswith	c-examples/c-example-code/endswith.c	/^bool endswith(char *string, char *end)$/;"	f	typeref:typename:bool
+enqueue	c-examples/c-example-code/queue_linked_list.c	/^void enqueue(Queue *queue, int value)$/;"	f	typeref:typename:void
+example	C-Embedded-C/pointers.c	/^void example(){$/;"	f	typeref:typename:void
+f	c-examples/c-example-code/static_local_variables.c	/^void f()$/;"	f	typeref:typename:void
+fact	c-examples/c-example-code/single_vs_multiple_recursion.c	/^int fact(int n)$/;"	f	typeref:typename:int
+factorial	C-Embedded-C/factorial.c	/^int factorial(int n){     \/\/using recurrsion method $/;"	f	typeref:typename:int
+factorial	c-examples/c-example-code/factorial_loop.c	/^size_t factorial(size_t n)$/;"	f	typeref:typename:size_t
+factorial	c-examples/c-example-code/factorial_recursion.c	/^int factorial(int n)$/;"	f	typeref:typename:int
+factorial	c-examples/c-example-code/recursion.c	/^int factorial(int n)$/;"	f	typeref:typename:int
+fib	c-examples/c-example-code/fib.c	/^int fib(int n)$/;"	f	typeref:typename:int
+fib	c-examples/c-example-code/single_vs_multiple_recursion.c	/^int fib(int n)$/;"	f	typeref:typename:int
+fibbonacci	C-Embedded-C/fibonnacci.c	/^void fibbonacci(n){$/;"	f	typeref:typename:void
+fibonacci	c-examples/c-example-code/ficb.c	/^void fibonacci(int n) {$/;"	f	typeref:typename:void
+fill_random	c-examples/c-example-code/fill_2d_random.c	/^void fill_random(int array[ROWS][COLS], int max)$/;"	f	typeref:typename:void
+fill_random	c-examples/c-example-code/fill_random.c	/^void fill_random(int array[], int length, int max)$/;"	f	typeref:typename:void
+fill_unique	c-examples/c-example-code/fill_random_unique.c	/^void fill_unique(int array[], int length, int min, int max)$/;"	f	typeref:typename:void
+find_character	c-examples/c-example-code/check_char_in_string.c	/^bool find_character(char string[], char to_find)$/;"	f	typeref:typename:bool
+find_index	c-examples/c-example-code/find_k_sorted_array.c	/^int find_index(int array[], int length, int K)$/;"	f	typeref:typename:int
+find_max	c-examples/c-example-code/find_max.c	/^int find_max(int array[], int length)$/;"	f	typeref:typename:int
+find_max	c-examples/c-example-code/function_like_macros.c	/^#define find_max(/;"	d	file:
+find_min	c-examples/c-example-code/find_min.c	/^int find_min(int array[], int length)$/;"	f	typeref:typename:int
+find_min_sum_pair	c-examples/c-example-code/elems_closest_to_zero.c	/^void find_min_sum_pair(int array[], int length)$/;"	f	typeref:typename:void
+first_occurrence	c-examples/c-example-code/find_first_char_occurrence.c	/^int first_occurrence(char string[], char character)$/;"	f	typeref:typename:int
+flipCoin	c-examples/c-example-code/coin_toss.c	/^coin flipCoin()$/;"	f	typeref:typename:coin
+foo	c-examples/c-example-code/do_while_0_macro_pattern.c	/^#define foo(/;"	d	file:
+freeze_C	c-examples/c-example-code/function_pointers.c	/^bool freeze_C(int temperature) {$/;"	f	typeref:typename:bool
+freeze_F	c-examples/c-example-code/function_pointers.c	/^bool freeze_F(int temperature) {$/;"	f	typeref:typename:bool
+func	c-examples/c-example-code/exit.c	/^void func()$/;"	f	typeref:typename:void
+func	c-examples/c-example-code/variable_scope.c	/^void func(int a)$/;"	f	typeref:typename:void
+func1	c-examples/c-example-code/int_main_void_difference.c	/^void func1()$/;"	f	typeref:typename:void
+func2	c-examples/c-example-code/int_main_void_difference.c	/^void func2(void)$/;"	f	typeref:typename:void
+function	C-Embedded-C/static_basic.c	/^void function() {$/;"	f	typeref:typename:void
+function	c-examples/c-example-code/comma_operator.c	/^int function(int a, int b, int c) { return a + b + c; }$/;"	f	typeref:typename:int
+function	c-examples/c-example-code/designated_initializers.c	/^int function(int a)$/;"	f	typeref:typename:int
+function	c-examples/c-example-code/function_pointers.c	/^void function(int x) $/;"	f	typeref:typename:void
+function	c-examples/c-example-code/function_vs_&function.c	/^void function()$/;"	f	typeref:typename:void
+function	c-examples/c-example-code/measure_execution_time.c	/^void function()$/;"	f	typeref:typename:void
+function	c-examples/c-example-code/token_pasting_operator.c	/^  void (*function) (void);$/;"	m	struct:__anone0ad4d280108	typeref:typename:void (*)(void)	file:
+function1	c-examples/c-example-code/local_vs_global_variables.c	/^void function1()$/;"	f	typeref:typename:void
+function1	c-examples/c-example-code/stack_overflow.c	/^void function1()$/;"	f	typeref:typename:void
+function2	c-examples/c-example-code/stack_overflow.c	/^void function2()$/;"	f	typeref:typename:void
+global	c-examples/c-example-code/local_vs_global_variables.c	/^int global = 50;$/;"	v	typeref:typename:int
+global_array	c-examples/c-example-code/return_a_string.c	/^char global_array[256];$/;"	v	typeref:typename:char[256]
+grades	c-examples/c-example-code/struct.c	/^  int grades[5];$/;"	m	struct:__anon2b3de8cc0108	typeref:typename:int[5]	file:
+head	c-examples/c-example-code/queue_linked_list.c	/^  Node *head;$/;"	m	struct:__anoncb85d37d0108	typeref:typename:Node *	file:
+height	C-Embedded-C/struc-basic.c	/^    float height ;$/;"	m	struct:__anonb4f2b7af0108	typeref:typename:float	file:
+height	C-Embedded-C/struc-basic.c	/^    float height ;$/;"	m	struct:my_information	typeref:typename:float	file:
+id	c-examples/c-example-code/include_guards/student.h	/^  int id;$/;"	m	struct:__anoneb49f18b0108	typeref:typename:int
+id	c-examples/c-example-code/struct.c	/^  char id[10];$/;"	m	struct:__anon2b3de8cc0108	typeref:typename:char[10]	file:
+inc	c-examples/c-example-code/function_like_macros.c	/^#define inc(/;"	d	file:
+incidents	c-examples/c-example-code/detached_threads.c	/^int incidents = 0;$/;"	v	typeref:typename:int
+includes	c-examples/c-example-code/array_includes.c	/^bool includes(int array[], int length, int value)$/;"	f	typeref:typename:bool
+increment	c-examples/c-example-code/function_like_macros.c	/^int increment()$/;"	f	typeref:typename:int
+increment	c-examples/c-example-code/void_function_return.c	/^int increment(int x)$/;"	f	typeref:typename:int
+init	c-examples/c-example-code/sets.c	/^Set* init()$/;"	f	typeref:typename:Set *
+insert	c-examples/c-example-code/sets.c	/^void insert(Set *set, int member)$/;"	f	typeref:typename:void
+insertion_sort	c-examples/c-example-code/insertion_sort.c	/^void insertion_sort(int a[], int length)$/;"	f	typeref:typename:void
+isPrime	c-examples/c-example-code/prime_check_recursion.c	/^bool isPrime(int n)$/;"	f	typeref:typename:bool
+is_armstrong	c-examples/c-example-code/armstrong_checker.c	/^bool is_armstrong(int number)$/;"	f	typeref:typename:bool
+is_disjoint	c-examples/c-example-code/disjoint_arrays.c	/^bool is_disjoint(int a1[], int l1, int a2[], int l2)$/;"	f	typeref:typename:bool
+is_empty	c-examples/c-example-code/queue_linked_list.c	/^bool is_empty(Queue *queue)$/;"	f	typeref:typename:bool
+is_empty	c-examples/c-example-code/sets.c	/^bool is_empty(Set *set)$/;"	f	typeref:typename:bool
+is_empty	c-examples/c-example-code/stack.c	/^bool is_empty(Stack *stack)$/;"	f	typeref:typename:bool
+is_even	c-examples/c-example-code/check_parity.c	/^bool is_even(int number)$/;"	f	typeref:typename:bool
+is_freezing	c-examples/c-example-code/function_pointers.c	/^void is_freezing( bool (*freeze_check)(int) ){$/;"	f	typeref:typename:void
+is_full	c-examples/c-example-code/stack.c	/^bool is_full(Stack *stack)$/;"	f	typeref:typename:bool
+is_leap_year	c-examples/c-example-code/is_leap_year.c	/^bool is_leap_year(int year)$/;"	f	typeref:typename:bool
+is_member	c-examples/c-example-code/sets.c	/^bool is_member(Set *set, int value)$/;"	f	typeref:typename:bool
+is_odd	c-examples/c-example-code/check_parity.c	/^bool is_odd(int number)$/;"	f	typeref:typename:bool
+is_palindrome	c-examples/c-example-code/palindrome.c	/^bool is_palindrome(char string[])$/;"	f	typeref:typename:bool
+is_palindrome	c-examples/c-example-code/palindrome_recursion.c	/^bool is_palindrome(char *string)$/;"	f	typeref:typename:bool
+is_postal_code	c-examples/c-example-code/postal_code.c	/^bool is_postal_code(char postal_code[])$/;"	f	typeref:typename:bool
+is_prime	c-examples/c-example-code/is_prime.c	/^bool is_prime(int number)$/;"	f	typeref:typename:bool
+is_rotation	c-examples/c-example-code/is_rotation.c	/^bool is_rotation(char *s1, char *s2)$/;"	f	typeref:typename:bool
+is_subset	c-examples/c-example-code/sets.c	/^bool is_subset(Set *setA, Set *setB)$/;"	f	typeref:typename:bool
+is_substring	c-examples/c-example-code/check_substring.c	/^bool is_substring(char *check, char *string)$/;"	f	typeref:typename:bool
+join	c-examples/c-example-code/join.c	/^char *join(char strings[][MAX], int count, char *separator)$/;"	f	typeref:typename:char *
+join2	c-examples/c-example-code/join.c	/^char *join2(char **strings, int count, char *separator)$/;"	f	typeref:typename:char *
+kilometer	C-Embedded-C/typedef.c	/^typedef int kilometer ;$/;"	t	typeref:typename:int	file:
+kilometer	c-examples/c-example-code/typedef.c	/^typedef int kilometer;$/;"	t	typeref:typename:int	file:
+km_to_miles	c-examples/c-example-code/distconvert.c	/^double km_to_miles(double km) { return km * 0.62137; }$/;"	f	typeref:typename:double
+km_to_nautical_miles	c-examples/c-example-code/distconvert.c	/^double km_to_nautical_miles(double km) { return km * 0.539957; }$/;"	f	typeref:typename:double
+largest_in_array	C-Embedded-C/array.c	/^void largest_in_array(){$/;"	f	typeref:typename:void
+largest_word	c-examples/c-example-code/largest_word.c	/^int largest_word(char *s)$/;"	f	typeref:typename:int
+largest_word	c-examples/c-example-code/largest_word_print.c	/^char* largest_word(char *s)$/;"	f	typeref:typename:char *
+last_occurrence	c-examples/c-example-code/find_last_char_occurrence.c	/^int last_occurrence(char string[], char character)$/;"	f	typeref:typename:int
+length	C-Embedded-C/array.c	/^void length(){$/;"	f	typeref:typename:void
+length	c-examples/c-example-code/sets.c	/^  int length;      \/\/ the number of members of the set$/;"	m	struct:__anonbecea1860108	typeref:typename:int	file:
+length_error	c-examples/c-example-code/void_function_return.c	/^void length_error()$/;"	f	typeref:typename:void
+letter_flip	c-examples/c-example-code/letter_flip.c	/^void letter_flip(char *s)$/;"	f	typeref:typename:void
+log_file	c-examples/c-example-code/detached_threads.c	/^FILE *log_file;$/;"	v	typeref:typename:FILE *
+log_message	c-examples/c-example-code/static_local_variables.c	/^void log_message(char *message)$/;"	f	typeref:typename:void
+logger	c-examples/c-example-code/detached_threads.c	/^void *logger()$/;"	f	typeref:typename:void *
+logger	c-examples/c-example-code/predefined_macros.c	/^void logger(char *msg, char *src, int line)$/;"	f	typeref:typename:void
+main	C-Embedded-C/DataCSV.C	/^int main(){$/;"	f	typeref:typename:int
+main	C-Embedded-C/Enum-basic.c	/^int main(){$/;"	f	typeref:typename:int
+main	C-Embedded-C/Memory_management.c	/^int main(){$/;"	f	typeref:typename:int
+main	C-Embedded-C/Readstring.c	/^int main(){$/;"	f	typeref:typename:int
+main	C-Embedded-C/array.c	/^int main(){$/;"	f	typeref:typename:int
+main	C-Embedded-C/bitmasking.c	/^int main() {$/;"	f	typeref:typename:int
+main	C-Embedded-C/checknuprimeeven.c	/^int main(){$/;"	f	typeref:typename:int
+main	C-Embedded-C/commandlinearguments.c	/^int main(int argc, char* argv[])$/;"	f	typeref:typename:int
+main	C-Embedded-C/factorial.c	/^int main(){$/;"	f	typeref:typename:int
+main	C-Embedded-C/fibonnacci.c	/^int main()$/;"	f	typeref:typename:int
+main	C-Embedded-C/functionC.c	/^int main(){ $/;"	f	typeref:typename:int
+main	C-Embedded-C/hello.c	/^int main(){$/;"	f	typeref:typename:int
+main	C-Embedded-C/macrosbasics.c	/^int main(){$/;"	f	typeref:typename:int
+main	C-Embedded-C/pointers.c	/^int main(){$/;"	f	typeref:typename:int
+main	C-Embedded-C/serialData.C	/^int main() {$/;"	f	typeref:typename:int
+main	C-Embedded-C/static_basic.c	/^int main() {$/;"	f	typeref:typename:int
+main	C-Embedded-C/string.c	/^int main()$/;"	f	typeref:typename:int
+main	C-Embedded-C/strtok-function.c	/^int main(void){$/;"	f	typeref:typename:int
+main	C-Embedded-C/struc-basic.c	/^int main(void){$/;"	f	typeref:typename:int
+main	C-Embedded-C/swap.c	/^int main() $/;"	f	typeref:typename:int
+main	C-Embedded-C/switchcase-statements.c	/^int main(void){$/;"	f	typeref:typename:int
+main	C-Embedded-C/tokerns.c	/^int main() {$/;"	f	typeref:typename:int
+main	C-Embedded-C/typedef.c	/^int main(){$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/_Bool.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/_chdir.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/_getcwd.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/_mkdir.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/_rmdir.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/abort.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/absolute_value.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/activate_debug_output.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/add_file_line_numbers.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/add_two_numbers.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/anagram_checker.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/append_input_to_file.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/area_of_circle.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/arithmetic.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/armstrong_checker.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/array_average.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/array_basics.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/array_concat.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/array_copy.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/array_element_product.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/array_includes.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/array_index_trick.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/array_of_structs_to_csv.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/array_pass.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/array_vs_&array.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/arrow_operator.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/assert.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/assignment.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/atexit.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/basic_library/main.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/binary/read_binary.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/binary/read_text.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/binary/write_binary.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/binary_search.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/binary_to_decimal.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/bitwise_operators.c	/^int main() $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/bool.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/breakcontinue.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/bubble_sort.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/char_array_vs_string_literal_pointer.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/char_bug.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/check_char_in_string.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/check_if_all_chars_unique.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/check_if_array_sorted.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/check_parity.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/check_string_equality_recursive.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/check_substring.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/christmas_tree.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/circle_circumference.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/clear_input_buffer.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/clearerr.cpp	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/cmdargs.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/coin_toss.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/col_sum_avg_2darray.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/comma_operator.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/comments.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/const_pointer_vs_pointer_to_const.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/constants.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/convert_for_to_while.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/convert_string.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/convert_vowels_uppercase.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/copy_file.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/count_char.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/count_chars.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/count_chars_recursion.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/count_digit_frequency.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/count_digits.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/count_digits_integer.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/count_file_chars.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/count_file_lines.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/count_file_words_and_chars.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/count_integer_digits.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/count_letters.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/count_lowercase.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/count_nonrepeating.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/count_occurrences.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/count_punct.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/count_spaces.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/count_unique.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/count_uppercase_letters.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/count_vowels_recursion.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/count_whitespace.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/count_words.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/countdown_timer.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/csv_to_struct_array.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/ctype.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/cylinder_volume.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/dangling_pointers.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/decimal_to_binary.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/declare_multiple_pointers.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/delete_array_element.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/delete_elements_user_input.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/delete_line.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/delete_lines_containing_chars.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/delete_matching_lines.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/delete_substring.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/designated_initializers.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/detached_threads.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/dice_roll.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/direct_vs_indirect_recursion.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/disjoint_arrays.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/display_file_contents.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/distconvert.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/div.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/do_while_0_macro_pattern.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/dot_product.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/dowhile.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/dynamic_2d_array.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/dynamic_array_of_strings.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/dynamic_array_of_structs.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/dynamic_string_truncate.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/dynamicmem.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/elems_closest_to_zero.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/endswith.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/enum.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/errno.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/error.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/exit.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/extern_share_global_variable/main.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/f_vs_lf.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/factorial_loop.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/factorial_recursion.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/feof.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/fib.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/ficb.c	/^int main() {$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/file_lines_to_string_array.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/file_number_average.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/file_to_dynamic_string_optimized.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/file_to_dynamic_string_suboptimal.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/fileio.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/files_lines_to_dynamic_array.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/fill_2d_random.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/fill_random.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/fill_random_unique.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/find_array_length.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/find_array_max_recursive.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/find_factors.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/find_first_char_occurrence.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/find_first_nonrepeating_array_element.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/find_group_averages.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/find_k_sorted_array.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/find_last_char_occurrence.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/find_max.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/find_max_file_value.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/find_min.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/find_min_recursive.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/fizzbuzz.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/floating_point_classification.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/fmod.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/for.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/fprintf.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/fputs.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/fseek.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/function_like_macros.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/function_pointers.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/function_vs_&function.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/functions.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/generate_random_character.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/generate_random_string.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/getenv.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/gets.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/goto.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/guessing_game.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/head_vs_tail_recursion.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/heap_inspection.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/hello_world.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/if.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/if_0_technique.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/if_elif_else.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/if_statement_best_practice.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/ifdef_ifndef.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/inches_to_feet_and_inches.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/include_guards/main.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/increase_size_dynamic_2d_array.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/infinite_buffer.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/infinite_number_user_input_buffer.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/init_2darray_user_input.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/init_array_include.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/init_array_user_input.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/initialize_string_array_with_user_input.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/input_validation.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/insert_array_value.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/insertion_sort.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/int_main_void_difference.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/integer_input.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/interlace_switch_cases_control_structures.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/is_leap_year.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/is_prime.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/is_rotation.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/isalnum.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/isalpha.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/iscntrl.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/isdigit.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/isgraph.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/isprint.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/ispunct.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/isspace.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/iterate_over_string_without_strlen.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/iterate_string_pointer.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/join.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/largest_word.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/largest_word_print.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/letter_flip.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/letter_frequency.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/libcurl_examples/libcurl_intro.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/libcurl_examples/query_parameters.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/libcurl_examples/store_http_response_into_string.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/line_directive.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/list_dir_contents.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/litres_of_paint.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/local_vs_global_variables.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/logical_operator.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/lottery_numbers.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/lvalues_ravlues.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/magic_8ball.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/main_return.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/make_lower.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/make_upper.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/malloc_vs_calloc.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/matrix_addition.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/matrix_equality.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/matrix_multiplication.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/matrix_subtraction.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/matrix_transpose.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/max_occur_char.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/measure_execution_time.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/memccpy.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/memchr.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/memcpy.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/memmove.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/memory_leaks.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/memset.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/merge_files.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/merge_sort.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/merge_sorted_arrays.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/merge_sorted_arrays_recursively.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/middle_index.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/min_distance_two_numbers.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/min_occur_char.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/mkdir.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/modf.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/most_frequent_array_value.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/move_zeros.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/multiline_string_literal.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/multiplication_table.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/mutex/main.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/nested_functions.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/null_pointer.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/null_terminator.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/ouput_row_2D_array.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/output_col_2D_array.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/output_percent_char.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/own_memcpy.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/own_strcat.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/own_strchr.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/own_strspn.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/own_tolower.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/palindrome.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/palindrome_recursion.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/parameters_vs_arguments.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/pass_by_reference.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/pointer_notation.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/pointers.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/postal_code.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/pow.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/predefined_macros.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/prevspost.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/prime_check_recursion.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/print_0_99_grid.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/print_2d_array.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/print_a_heart.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/print_array.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/print_debugging.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/print_first_letter.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/print_first_repeat.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/print_first_unique.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/print_last_letter.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/print_reverse.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/print_reverse_recursive.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/print_string_recursion.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/print_unique.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/print_until_newline.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/printf.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/prints_itself.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/puts.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/qsort.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/queue_linked_list.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/quicksort.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/quiz_game.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/race_condition_example/main.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/random.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/random_bool.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/random_double.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/random_password_generator.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/read_file.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/read_line.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/readfile_into_2d_array.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/realloc.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/realloc_fail.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/realloc_vulnerability.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/rectangle_area.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/rectangle_perimeter.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/recursion.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/recursive_array_average.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/register.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/relational.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/remove.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/remove_char.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/remove_char_from_file.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/remove_chars_from_string.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/remove_chat_at_pos.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/remove_consecutive_spaces.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/remove_duplicate_chars.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/remove_duplicates.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/remove_duplicates_efficient.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/remove_fgets_trailing_newline.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/remove_non_alpha.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/remove_space_chars.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/remove_vowels.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/rename.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/repeat_a_string.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/replace_char.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/replace_line.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/replace_occurrences.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/replace_substring.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/return_a_string.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/return_an_array.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/return_dynamic_2d_array.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/return_more_than_one.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/return_multiple_dynamic.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/reverse.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/reverse_a_file.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/reverse_a_string.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/reverse_array_recursive.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/reverse_integer.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/reverse_string_using_pointers.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/reverse_words.c	/^int main() $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/rewind.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/rock_paper_scissors.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/rotate_array_left.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/rotate_array_right.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/round_double.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/round_functions.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/row_sum_avg_2darray.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/savings_calculator.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/scanf.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/second_highest.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/second_lowest.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/seed.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/selection_sort.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/set_random_2d_array_indexes.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/sets.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/shuffle_2darray.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/shuffle_a_string.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/shuffle_array.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/simple_calculator.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/single_vs_multiple_recursion.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/size_t.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/sizeof.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/sleep.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/smallest_word.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/smallest_word_print.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/sort_three_numbers.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/sorting_strings.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/split.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/split_array_at_index.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/split_even_odd.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/split_string.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/sprintf.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/sqrt.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/square_area.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/stack.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/stack_overflow.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/startswith.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/static_functions/main.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/static_global_variable/main.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/static_local_variables.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/stdarg_demo.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/stderr.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/stdev.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/strcat_strncat.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/strchr.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/strcmp.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/strcpy_strncpy.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/strcspn.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/string_append.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/string_basics.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/string_input.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/string_length.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/string_length_recursive.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/string_safety.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/string_truncate.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/strncpy_implementation.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/strnlen.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/strpbrk.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/strpbrk_implementation.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/strrchr.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/strspn.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/strstr.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/strtod.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/strtok.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/struct.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/struct_array_binary_file.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/structure_padding.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/substring.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/sum.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/sum_digits.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/sum_naturals.c	/^int main() $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/sum_string_digits.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/swap_cols.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/swap_rows.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/switch.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/switch_menu.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/system.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/temp_convert.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/ternary.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/third_angle.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/thread_intro.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/time.h	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/time_null.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/tmpfile.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/tmpnam.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/token_pasting_operator.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/tolower.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/triangle_area.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/triangle_of_stars.c	/^int main(void) $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/trim_leading_whitespace.c	/^int main() $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/trim_trailing_whitespace.c	/^int main() $/;"	f	typeref:typename:int
+main	c-examples/c-example-code/truncate.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/twod_array.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/typecast.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/typedef.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/ungetc.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/unions.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/variable_scope.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/variables.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/vector_add.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/verify_password.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/void_function_return.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/void_main.c	/^int main(int argc, char *argv[])$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/void_pointers.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/volume_of_a_sphere.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/vowel_counter.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/while.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/word_count.c	/^int main(void)$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/word_scramble_game.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/write_input_to_file.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/write_specific.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/xor_swap.c	/^int main()$/;"	f	typeref:typename:int
+main	c-examples/c-example-code/your_own_strcpy.c	/^int main()$/;"	f	typeref:typename:int
+make_array	c-examples/c-example-code/sizeof.c	/^void make_array(int length)$/;"	f	typeref:typename:void
+make_lower	c-examples/c-example-code/make_lower.c	/^void make_lower(char *s)$/;"	f	typeref:typename:void
+make_upper	c-examples/c-example-code/make_upper.c	/^void make_upper(char *s)$/;"	f	typeref:typename:void
+matrix_addition	c-examples/c-example-code/matrix_addition.c	/^void matrix_addition(int A[ROWS][COLS], int B[ROWS][COLS], int C[ROWS][COLS])$/;"	f	typeref:typename:void
+matrix_equality	c-examples/c-example-code/matrix_equality.c	/^bool matrix_equality(int A[ROWS][COLS], int B[ROWS][COLS])$/;"	f	typeref:typename:bool
+matrix_mult	c-examples/c-example-code/matrix_multiplication.c	/^void matrix_mult(int A[M][N], int B[N][P], int C[M][P])$/;"	f	typeref:typename:void
+matrix_mult	c-examples/c-example-code/twod_array.c	/^void matrix_mult(int c[M][P], int a[M][N], int b[N][P])$/;"	f	typeref:typename:void
+matrix_subtraction	c-examples/c-example-code/matrix_subtraction.c	/^void matrix_subtraction(int A[ROWS][COLS],$/;"	f	typeref:typename:void
+max	c-examples/c-example-code/find_array_max_recursive.c	/^int max(int array[], int n)$/;"	f	typeref:typename:int
+max	c-examples/c-example-code/stdarg_demo.c	/^int max(int num_args, ...)$/;"	f	typeref:typename:int
+max_rectangle_area	c-examples/c-example-code/nested_functions.c	/^int max_rectangle_area(int width1, int length1, int width2, int length2)$/;"	f	typeref:typename:int
+mem_cpy	c-examples/c-example-code/own_memcpy.c	/^void *mem_cpy(void *dest, void *src, int n)$/;"	f	typeref:typename:void *
+members	c-examples/c-example-code/sets.c	/^  int *members;    \/\/ pointer to dynamically allocated array of the set members$/;"	m	struct:__anonbecea1860108	typeref:typename:int *	file:
+memory_hog	c-examples/c-example-code/dynamicmem.c	/^void memory_hog(int size)$/;"	f	typeref:typename:void
+merge	c-examples/c-example-code/merge_sorted_arrays.c	/^void merge(int a[], int m, int b[], int n, int r[])$/;"	f	typeref:typename:void
+merge	c-examples/c-example-code/merge_sorted_arrays_recursively.c	/^void merge(int a[], int i, int b[], int j, int r[])$/;"	f	typeref:typename:void
+merge_sort	c-examples/c-example-code/merge_sort.c	/^void merge_sort(int a[], int length)$/;"	f	typeref:typename:void
+merge_sort_recursion	c-examples/c-example-code/merge_sort.c	/^void merge_sort_recursion(int a[], int l, int r)$/;"	f	typeref:typename:void
+merge_sorted_arrays	c-examples/c-example-code/merge_sort.c	/^void merge_sorted_arrays(int a[], int l, int m, int r)$/;"	f	typeref:typename:void
+method1	c-examples/c-example-code/return_a_string.c	/^const char *method1()$/;"	f	typeref:typename:const char *
+method2	c-examples/c-example-code/return_a_string.c	/^char *method2()$/;"	f	typeref:typename:char *
+method3	c-examples/c-example-code/return_a_string.c	/^void method3(char *s)$/;"	f	typeref:typename:void
+method4	c-examples/c-example-code/return_a_string.c	/^char *method4()$/;"	f	typeref:typename:char *
+min	c-examples/c-example-code/find_min_recursive.c	/^int min(int array[], int n)$/;"	f	typeref:typename:int
+min	c-examples/c-example-code/function_like_macros.c	/^#define min(/;"	d	file:
+min_distance	c-examples/c-example-code/min_distance_two_numbers.c	/^int min_distance(int array[], int length, int a, int b)$/;"	f	typeref:typename:int
+mult	c-examples/c-example-code/functions.c	/^int mult(int x, int y)$/;"	f	typeref:typename:int
+multiply	c-examples/c-example-code/function_pointers.c	/^int multiply(int x, int y) { return x * y; }$/;"	f	typeref:typename:int
+mutex	c-examples/c-example-code/mutex/main.c	/^pthread_mutex_t mutex;$/;"	v	typeref:typename:pthread_mutex_t
+myStrings	C-Embedded-C/Readstring.c	/^char *myStrings[] = {"This is string 1", "This is string 2", "This is string 3",$/;"	v	typeref:typename:char * []
+my_information	C-Embedded-C/struc-basic.c	/^struct my_information$/;"	s	file:
+n	C-Embedded-C/fibonnacci.c	/^int n ;$/;"	v	typeref:typename:int
+name	C-Embedded-C/struc-basic.c	/^    char name[30] ;             $/;"	m	struct:__anonb4f2b7af0108	typeref:typename:char[30]	file:
+name	C-Embedded-C/struc-basic.c	/^    char name[30] ;             \/\/ string will use in main but using strcpy function  $/;"	m	struct:my_information	typeref:typename:char[30]	file:
+name	c-examples/c-example-code/array_of_structs_to_csv.c	/^  char name[50];$/;"	m	struct:__anon0c69fdbe0108	typeref:typename:char[50]	file:
+name	c-examples/c-example-code/csv_to_struct_array.c	/^  char name[50];$/;"	m	struct:__anon1327d6d70108	typeref:typename:char[50]	file:
+name	c-examples/c-example-code/include_guards/course.h	/^  char name[100];$/;"	m	struct:__anonf97330350108	typeref:typename:char[100]
+name	c-examples/c-example-code/include_guards/student.h	/^  char name[100];$/;"	m	struct:__anoneb49f18b0108	typeref:typename:char[100]
+name	c-examples/c-example-code/own_memcpy.c	/^  char name[256];$/;"	m	struct:__anonfae753050108	typeref:typename:char[256]	file:
+name	c-examples/c-example-code/struct.c	/^  char name[50];$/;"	m	struct:__anon2b3de8cc0108	typeref:typename:char[50]	file:
+name	c-examples/c-example-code/struct_array_binary_file.c	/^  char name[256];$/;"	m	struct:__anon669f622d0108	typeref:typename:char[256]	file:
+name	c-examples/c-example-code/token_pasting_operator.c	/^  char name[100];$/;"	m	struct:__anone0ad4d280108	typeref:typename:char[100]	file:
+next	c-examples/c-example-code/null_pointer.c	/^  struct node *next;$/;"	m	struct:node	typeref:struct:node *	file:
+next	c-examples/c-example-code/queue_linked_list.c	/^  struct Node *next;$/;"	m	struct:Node	typeref:struct:Node *	file:
+node	c-examples/c-example-code/null_pointer.c	/^struct node$/;"	s	file:
+non_repeating	c-examples/c-example-code/count_nonrepeating.c	/^int non_repeating(int a[], int length)$/;"	f	typeref:typename:int
+number	C-Embedded-C/checknuprimeeven.c	/^int number ;$/;"	v	typeref:typename:int
+number	c-examples/c-example-code/extern_share_global_variable/library.c	/^int number = 0;$/;"	v	typeref:typename:int
+number	c-examples/c-example-code/function_like_macros.c	/^int number = 0;$/;"	v	typeref:typename:int
+number	c-examples/c-example-code/static_global_variable/library.c	/^static int number = 0;$/;"	v	typeref:typename:int	file:
+obstain	C-Embedded-C/Enum-basic.c	/^    obstain                 \/\/ But value can be change using integer and other data types $/;"	e	enum:Election_vote	file:
+occurrences	c-examples/c-example-code/count_occurrences.c	/^int occurrences(int array[], int length, int to_find)$/;"	f	typeref:typename:int
+outer	c-examples/c-example-code/nested_functions.c	/^void outer()$/;"	f	typeref:typename:void
+output	c-examples/c-example-code/function_like_macros.c	/^#define output(/;"	d	file:
+parse_int	c-examples/c-example-code/integer_input.c	/^bool parse_int(char *string, int *integer)$/;"	f	typeref:typename:bool
+partition	c-examples/c-example-code/quicksort.c	/^int partition(int array[], int low, int high)$/;"	f	typeref:typename:int
+peek	c-examples/c-example-code/queue_linked_list.c	/^int peek(Queue *queue, bool *status)$/;"	f	typeref:typename:int
+peek	c-examples/c-example-code/stack.c	/^bool peek(Stack *stack, int *item)$/;"	f	typeref:typename:bool
+phone_number	C-Embedded-C/struc-basic.c	/^    int phone_number ;      $/;"	m	struct:__anonb4f2b7af0108	typeref:typename:int	file:
+phone_number	C-Embedded-C/struc-basic.c	/^    int phone_number ;      \/\/ so refer integer $/;"	m	struct:my_information	typeref:typename:int	file:
+pop	c-examples/c-example-code/stack.c	/^bool pop(Stack *stack, int *item)$/;"	f	typeref:typename:bool
+press	c-examples/c-example-code/enum.c	/^Button press(Button current)$/;"	f	typeref:typename:Button
+primeChecker	c-examples/c-example-code/prime_check_recursion.c	/^bool primeChecker(int n, int i)$/;"	f	typeref:typename:bool
+primeChecker2	c-examples/c-example-code/prime_check_recursion.c	/^bool primeChecker2(int n, int stop, int i)$/;"	f	typeref:typename:bool
+print	c-examples/c-example-code/extern_share_global_variable/library.c	/^void print()$/;"	f	typeref:typename:void
+print	c-examples/c-example-code/function_like_macros.c	/^#define print /;"	d	file:
+print	c-examples/c-example-code/pointer_notation.c	/^void print(int *a)$/;"	f	typeref:typename:void
+print	c-examples/c-example-code/shuffle_2darray.c	/^void print(int array[ROWS][COLS])$/;"	f	typeref:typename:void
+print	c-examples/c-example-code/static_functions/lib.c	/^static void print(double value, int times)$/;"	f	typeref:typename:void	file:
+print	c-examples/c-example-code/static_global_variable/library.c	/^void print()$/;"	f	typeref:typename:void
+print	c-examples/c-example-code/stdarg_demo.c	/^void print(char *placeholders, ... )$/;"	f	typeref:typename:void
+print	c-examples/c-example-code/token_pasting_operator.c	/^#define print(/;"	d	file:
+print2Darray	c-examples/c-example-code/print_2d_array.c	/^void print2Darray(int array[ROWS][COLS])$/;"	f	typeref:typename:void
+print_array	c-examples/c-example-code/constants.c	/^void print_array(int *array, int size)$/;"	f	typeref:typename:void
+print_array	c-examples/c-example-code/void_function_return.c	/^void print_array(int array[], int length)$/;"	f	typeref:typename:void
+print_button	c-examples/c-example-code/enum.c	/^void print_button(Button current)$/;"	f	typeref:typename:void
+print_chars	c-examples/c-example-code/string_safety.c	/^void print_chars(char *string)$/;"	f	typeref:typename:void
+print_chars_safe	c-examples/c-example-code/string_safety.c	/^void print_chars_safe(char *string, size_t n)$/;"	f	typeref:typename:void
+print_even	c-examples/c-example-code/direct_vs_indirect_recursion.c	/^void print_even(int n)$/;"	f	typeref:typename:void
+print_first_repeat	c-examples/c-example-code/print_first_repeat.c	/^void print_first_repeat(char *s)$/;"	f	typeref:typename:void
+print_first_unique	c-examples/c-example-code/print_first_unique.c	/^void print_first_unique(char *s)$/;"	f	typeref:typename:void
+print_int	c-examples/c-example-code/functions.c	/^void print_int(int a)$/;"	f	typeref:typename:void
+print_max_char	c-examples/c-example-code/max_occur_char.c	/^void print_max_char(char *s)$/;"	f	typeref:typename:void
+print_min_char	c-examples/c-example-code/min_occur_char.c	/^void print_min_char(char *s)$/;"	f	typeref:typename:void
+print_number_3x	c-examples/c-example-code/function_like_macros.c	/^#define print_number_3x(/;"	d	file:
+print_occurrences	c-examples/c-example-code/count_chars.c	/^void print_occurrences(char *s)$/;"	f	typeref:typename:void
+print_odd	c-examples/c-example-code/direct_vs_indirect_recursion.c	/^void print_odd(int n)$/;"	f	typeref:typename:void
+print_points	c-examples/c-example-code/struct.c	/^void print_points(Point points[])$/;"	f	typeref:typename:void
+print_reverse	c-examples/c-example-code/print_reverse.c	/^void print_reverse(int array[], int length)$/;"	f	typeref:typename:void
+print_reverse	c-examples/c-example-code/print_reverse_recursive.c	/^void print_reverse(char *s)$/;"	f	typeref:typename:void
+print_set	c-examples/c-example-code/sets.c	/^void print_set(Set *set)$/;"	f	typeref:typename:void
+print_size	c-examples/c-example-code/find_array_length.c	/^void print_size(int array[])$/;"	f	typeref:typename:void
+print_string	c-examples/c-example-code/assert.c	/^void print_string(char *s)$/;"	f	typeref:typename:void
+print_string	c-examples/c-example-code/print_string_recursion.c	/^void print_string(char *string)$/;"	f	typeref:typename:void
+print_student	c-examples/c-example-code/struct.c	/^void print_student(Student student)$/;"	f	typeref:typename:void
+print_unique	c-examples/c-example-code/print_unique.c	/^void print_unique(int a[], int length)$/;"	f	typeref:typename:void
+print_until_newline	c-examples/c-example-code/print_until_newline.c	/^void print_until_newline(char *s)$/;"	f	typeref:typename:void
+ptr	C-Embedded-C/pointers.c	/^int* ptr ;          \/\/ pointer Declaration$/;"	v	typeref:typename:int *
+push	c-examples/c-example-code/stack.c	/^bool push(Stack *stack, int item)$/;"	f	typeref:typename:bool
+question	c-examples/c-example-code/quiz_game.c	/^  char question[MAX_QUESTION];$/;"	m	struct:__anon6d6529890108	typeref:typename:char[]	file:
+quicksort	c-examples/c-example-code/quicksort.c	/^void quicksort(int array[], int length)$/;"	f	typeref:typename:void
+quicksort_recursion	c-examples/c-example-code/quicksort.c	/^void quicksort_recursion(int array[], int low, int high)$/;"	f	typeref:typename:void
+quiz_question	c-examples/c-example-code/quiz_game.c	/^} quiz_question;$/;"	t	typeref:struct:__anon6d6529890108	file:
+rand_range	c-examples/c-example-code/random_double.c	/^double rand_range(double min, double max)$/;"	f	typeref:typename:double
+random_bool	c-examples/c-example-code/random_bool.c	/^bool random_bool()$/;"	f	typeref:typename:bool
+random_char1	c-examples/c-example-code/generate_random_character.c	/^char random_char1()$/;"	f	typeref:typename:char
+random_char2	c-examples/c-example-code/generate_random_character.c	/^char random_char2()$/;"	f	typeref:typename:char
+random_string1	c-examples/c-example-code/generate_random_string.c	/^char *random_string1(size_t size, char *possible)$/;"	f	typeref:typename:char *
+random_string2	c-examples/c-example-code/generate_random_string.c	/^char *random_string2(size_t size)$/;"	f	typeref:typename:char *
+read_balance	c-examples/c-example-code/mutex/bank.c	/^int read_balance()$/;"	f	typeref:typename:int
+read_balance	c-examples/c-example-code/race_condition_example/bank.c	/^int read_balance()$/;"	f	typeref:typename:int
+read_data	c-examples/c-example-code/struct_array_binary_file.c	/^Student *read_data(char *filename, int *total)$/;"	f	typeref:typename:Student *
+read_file	c-examples/c-example-code/read_file.c	/^char *read_file(char *filename)$/;"	f	typeref:typename:char *
+rect	c-examples/c-example-code/return_more_than_one.c	/^void rect(int length, int width, int *area, int *perimeter)$/;"	f	typeref:typename:void
+relationoperator	C-Embedded-C/tokerns.c	/^void relationoperator(int a,int b){             \/\/ if statements$/;"	f	typeref:typename:void
+remove_char	c-examples/c-example-code/remove_char.c	/^void remove_char(char *string, char r)$/;"	f	typeref:typename:void
+remove_char	c-examples/c-example-code/remove_chat_at_pos.c	/^bool remove_char(char *s, int pos)$/;"	f	typeref:typename:bool
+remove_chars	c-examples/c-example-code/remove_chars_from_string.c	/^int remove_chars(char string[], char remove[])$/;"	f	typeref:typename:int
+remove_consecutive_spaces	c-examples/c-example-code/remove_consecutive_spaces.c	/^void remove_consecutive_spaces(char *string)$/;"	f	typeref:typename:void
+remove_duplicates	c-examples/c-example-code/remove_duplicate_chars.c	/^void remove_duplicates(char *string)$/;"	f	typeref:typename:void
+remove_duplicates	c-examples/c-example-code/remove_duplicates.c	/^int *remove_duplicates(int array[], int length, int *new_length)$/;"	f	typeref:typename:int *
+remove_duplicates	c-examples/c-example-code/remove_duplicates_efficient.c	/^void remove_duplicates(char *string)$/;"	f	typeref:typename:void
+remove_non_alpha	c-examples/c-example-code/remove_non_alpha.c	/^void remove_non_alpha(char *string)$/;"	f	typeref:typename:void
+remove_spaces	c-examples/c-example-code/remove_space_chars.c	/^void remove_spaces(char *string)$/;"	f	typeref:typename:void
+repeat	c-examples/c-example-code/repeat_a_string.c	/^char *repeat(char *string, size_t repeats)$/;"	f	typeref:typename:char *
+replace	c-examples/c-example-code/replace_occurrences.c	/^void replace(int array[], int length, int value, int new)$/;"	f	typeref:typename:void
+replace	c-examples/c-example-code/replace_substring.c	/^char *replace(char *before, char *oldsub, char *newsub)$/;"	f	typeref:typename:char *
+replace_char	c-examples/c-example-code/replace_char.c	/^void replace_char(char *string, char replace, char new)$/;"	f	typeref:typename:void
+report_value	c-examples/c-example-code/static_functions/lib.c	/^void report_value(double value)$/;"	f	typeref:typename:void
+return_two	c-examples/c-example-code/return_multiple_dynamic.c	/^void return_two(int *a, int *b)$/;"	f	typeref:typename:void
+reverse	c-examples/c-example-code/reverse.c	/^void reverse(int array[], int length)$/;"	f	typeref:typename:void
+reverse	c-examples/c-example-code/reverse_a_string.c	/^void reverse(char *string)$/;"	f	typeref:typename:void
+reverse	c-examples/c-example-code/reverse_array_recursive.c	/^void reverse(int array[], int low, int high)$/;"	f	typeref:typename:void
+reverse_array	C-Embedded-C/array.c	/^void reverse_array(){$/;"	f	typeref:typename:void
+reverse_array	c-examples/c-example-code/reverse_array_recursive.c	/^void reverse_array(int array[], int length)$/;"	f	typeref:typename:void
+reverse_string	c-examples/c-example-code/reverse_string_using_pointers.c	/^void reverse_string(char *string)$/;"	f	typeref:typename:void
+reverse_words	c-examples/c-example-code/reverse_words.c	/^void reverse_words(char *s)$/;"	f	typeref:typename:void
+rotate_left	c-examples/c-example-code/rotate_array_left.c	/^void rotate_left(int array[], int length, int n)$/;"	f	typeref:typename:void
+rotate_left_once	c-examples/c-example-code/rotate_array_left.c	/^void rotate_left_once(int array[], int length)$/;"	f	typeref:typename:void
+rotate_once_right	c-examples/c-example-code/rotate_array_right.c	/^void rotate_once_right(int array[], int length)$/;"	f	typeref:typename:void
+rotate_right	c-examples/c-example-code/rotate_array_right.c	/^void rotate_right(int array[], int length, int n)$/;"	f	typeref:typename:void
+safe_free	c-examples/c-example-code/dangling_pointers.c	/^#define safe_free(/;"	d	file:
+safe_free_mem	c-examples/c-example-code/dangling_pointers.c	/^void safe_free_mem(void **ptr)$/;"	f	typeref:typename:void
+scramble	c-examples/c-example-code/word_scramble_game.c	/^void scramble(char *s)$/;"	f	typeref:typename:void
+second_highest	c-examples/c-example-code/second_highest.c	/^int second_highest(int a[], int length)$/;"	f	typeref:typename:int
+second_lowest	c-examples/c-example-code/second_lowest.c	/^int second_lowest(int a[], int length)$/;"	f	typeref:typename:int
+select_operation	c-examples/c-example-code/function_pointers.c	/^int (*select_operation())(int, int)$/;"	f	typeref:typename:int (*)(int,int)
+set_array1	c-examples/c-example-code/return_an_array.c	/^void set_array1(int value, int *array)$/;"	f	typeref:typename:void
+set_array2	c-examples/c-example-code/return_an_array.c	/^int *set_array2(int value)$/;"	f	typeref:typename:int *
+set_array3	c-examples/c-example-code/return_an_array.c	/^int *set_array3(int value)$/;"	f	typeref:typename:int *
+set_difference	c-examples/c-example-code/sets.c	/^Set *set_difference(Set *setA, Set *setB)$/;"	f	typeref:typename:Set *
+set_equality	c-examples/c-example-code/sets.c	/^bool set_equality(Set *setA, Set *setB)$/;"	f	typeref:typename:bool
+set_intersection	c-examples/c-example-code/sets.c	/^Set *set_intersection(Set *setA, Set *setB)$/;"	f	typeref:typename:Set *
+set_random	c-examples/c-example-code/set_random_2d_array_indexes.c	/^void set_random(int array[ROWS][COLS], int value, int total)$/;"	f	typeref:typename:void
+set_union	c-examples/c-example-code/sets.c	/^Set *set_union(Set *setA, Set *setB)$/;"	f	typeref:typename:Set *
+shift_zeros	c-examples/c-example-code/move_zeros.c	/^void shift_zeros(int array[], int length)$/;"	f	typeref:typename:void
+shuffle	c-examples/c-example-code/shuffle_2darray.c	/^void shuffle(int array[ROWS][COLS])$/;"	f	typeref:typename:void
+shuffle	c-examples/c-example-code/shuffle_array.c	/^void shuffle(int array[], int length)$/;"	f	typeref:typename:void
+shuffle_string	c-examples/c-example-code/shuffle_a_string.c	/^void shuffle_string(char *string, size_t length)$/;"	f	typeref:typename:void
+size	c-examples/c-example-code/libcurl_examples/store_http_response_into_string.c	/^  size_t size;$/;"	m	struct:__anon37d7c42a0108	typeref:typename:size_t	file:
+size	c-examples/c-example-code/queue_linked_list.c	/^  int size;$/;"	m	struct:__anoncb85d37d0108	typeref:typename:int	file:
+size	c-examples/c-example-code/queue_linked_list.c	/^int size(Queue *queue)$/;"	f	typeref:typename:int
+size	c-examples/c-example-code/stack.c	/^  int size;$/;"	m	struct:__anonba40991d0108	typeref:typename:int	file:
+smallest_word	c-examples/c-example-code/smallest_word.c	/^int smallest_word(char *s)$/;"	f	typeref:typename:int
+smallest_word	c-examples/c-example-code/smallest_word_print.c	/^char* smallest_word(char *s)$/;"	f	typeref:typename:char *
+sorted	c-examples/c-example-code/check_if_array_sorted.c	/^bool sorted(int array[], int length)$/;"	f	typeref:typename:bool
+sorted_ascending	c-examples/c-example-code/check_if_array_sorted.c	/^bool sorted_ascending(int array[], int length)$/;"	f	typeref:typename:bool
+sorted_descending	c-examples/c-example-code/check_if_array_sorted.c	/^bool sorted_descending(int array[], int length)$/;"	f	typeref:typename:bool
+sphere_volume	c-examples/c-example-code/volume_of_a_sphere.c	/^double sphere_volume(double radius)$/;"	f	typeref:typename:double
+split	c-examples/c-example-code/split.c	/^char **split(char *string, char *seperators, int *count)$/;"	f	typeref:typename:char **
+split	c-examples/c-example-code/split_array_at_index.c	/^void split(int *array,$/;"	f	typeref:typename:void
+split_nums	c-examples/c-example-code/split_even_odd.c	/^void split_nums(int array[], int array_length,$/;"	f	typeref:typename:void
+square_area	c-examples/c-example-code/square_area.c	/^double square_area(double side)$/;"	f	typeref:typename:double
+start	c-examples/c-example-code/atexit.c	/^time_t start, end;$/;"	v	typeref:typename:time_t
+startswith	c-examples/c-example-code/startswith.c	/^bool startswith(char *string, char *start)$/;"	f	typeref:typename:bool
+stdev	c-examples/c-example-code/stdev.c	/^double stdev(double x[], int N)$/;"	f	typeref:typename:double
+str_cpy1	c-examples/c-example-code/your_own_strcpy.c	/^char *str_cpy1(char *destination, const char *source)$/;"	f	typeref:typename:char *
+str_cpy2	c-examples/c-example-code/your_own_strcpy.c	/^char *str_cpy2(char *destination, const char *source)$/;"	f	typeref:typename:char *
+string	c-examples/c-example-code/libcurl_examples/store_http_response_into_string.c	/^  char *string;$/;"	m	struct:__anon37d7c42a0108	typeref:typename:char *	file:
+string_append	c-examples/c-example-code/string_append.c	/^char *string_append(char *s1, char *s2)$/;"	f	typeref:typename:char *
+string_equals	c-examples/c-example-code/check_string_equality_recursive.c	/^bool string_equals(const char *s1, const char *s2)$/;"	f	typeref:typename:bool
+string_length	c-examples/c-example-code/string_length.c	/^int string_length(char *string)$/;"	f	typeref:typename:int
+string_length	c-examples/c-example-code/string_length_recursive.c	/^int string_length(char *string)$/;"	f	typeref:typename:int
+string_split	c-examples/c-example-code/split_string.c	/^void string_split(char *s, int index, char *first, char *second)$/;"	f	typeref:typename:void
+students	c-examples/c-example-code/include_guards/course.h	/^  Student students[100];$/;"	m	struct:__anonf97330350108	typeref:typename:Student[100]
+sub	c-examples/c-example-code/basic_library/library.c	/^int sub(int x, int y)$/;"	f	typeref:typename:int
+substring	c-examples/c-example-code/substring.c	/^void substring(char *orig, char *substr, int index, int length)$/;"	f	typeref:typename:void
+subtract	c-examples/c-example-code/function_pointers.c	/^int subtract(int x, int y) { return x - y; }$/;"	f	typeref:typename:int
+subtract_instruction	c-examples/c-example-code/token_pasting_operator.c	/^void subtract_instruction(void)$/;"	f	typeref:typename:void
+sum	c-examples/c-example-code/head_vs_tail_recursion.c	/^int sum(int n)$/;"	f	typeref:typename:int
+sum	c-examples/c-example-code/parameters_vs_arguments.c	/^int sum(int a, int b)$/;"	f	typeref:typename:int
+sum	c-examples/c-example-code/stack_overflow.c	/^int sum(int a[], int length, int i)$/;"	f	typeref:typename:int
+sum	c-examples/c-example-code/sum.c	/^int sum(int array[], int length)$/;"	f	typeref:typename:int
+sum	c-examples/c-example-code/sum_naturals.c	/^int sum(int n)$/;"	f	typeref:typename:int
+sumHead	c-examples/c-example-code/head_vs_tail_recursion.c	/^int sumHead(int n, int result)$/;"	f	typeref:typename:int
+sumTail	c-examples/c-example-code/head_vs_tail_recursion.c	/^long sumTail(long n, long result)$/;"	f	typeref:typename:long
+sumTailModified	c-examples/c-example-code/head_vs_tail_recursion.c	/^long sumTailModified(long n, long result)$/;"	f	typeref:typename:long
+sum_digits	c-examples/c-example-code/sum_string_digits.c	/^int sum_digits(char *string)$/;"	f	typeref:typename:int
+sum_integers	c-examples/c-example-code/direct_vs_indirect_recursion.c	/^int sum_integers(int n)$/;"	f	typeref:typename:int
+swap	C-Embedded-C/swap.c	/^void swap(int a,int b){     \/\/ swapping using minor changes.  $/;"	f	typeref:typename:void
+swap	c-examples/c-example-code/pass_by_reference.c	/^void swap(int a, int b)$/;"	f	typeref:typename:void
+swap	c-examples/c-example-code/pointers.c	/^void swap(int *a, int *b)$/;"	f	typeref:typename:void
+swap	c-examples/c-example-code/quicksort.c	/^void swap(int *x, int *y)$/;"	f	typeref:typename:void
+swap2	c-examples/c-example-code/pass_by_reference.c	/^void swap2(int *a, int *b)$/;"	f	typeref:typename:void
+swap_rows	c-examples/c-example-code/swap_rows.c	/^void swap_rows(int array[ROWS][COLS], int rowA, int rowB)$/;"	f	typeref:typename:void
+tail	c-examples/c-example-code/queue_linked_list.c	/^  Node *tail;$/;"	m	struct:__anoncb85d37d0108	typeref:typename:Node *	file:
+to_lower	c-examples/c-example-code/own_tolower.c	/^int to_lower(int c)$/;"	f	typeref:typename:int
+transpose	c-examples/c-example-code/matrix_transpose.c	/^void transpose(int A[M][N], int T[N][M])$/;"	f	typeref:typename:void
+trim	c-examples/c-example-code/trim_leading_whitespace.c	/^void trim(char *s)$/;"	f	typeref:typename:void
+trim	c-examples/c-example-code/trim_trailing_whitespace.c	/^void trim(char *s)$/;"	f	typeref:typename:void
+truncate_string	c-examples/c-example-code/string_truncate.c	/^void truncate_string(char string[], int n)$/;"	f	typeref:typename:void
+type	c-examples/c-example-code/array_of_structs_to_csv.c	/^  char type;$/;"	m	struct:__anon0c69fdbe0108	typeref:typename:char	file:
+type	c-examples/c-example-code/csv_to_struct_array.c	/^  char type;$/;"	m	struct:__anon1327d6d70108	typeref:typename:char	file:
+type	c-examples/c-example-code/unions.c	/^  int type;$/;"	m	struct:__anon207f29430108	typeref:typename:int	file:
+value	c-examples/c-example-code/null_pointer.c	/^  int value;$/;"	m	struct:node	typeref:typename:int	file:
+value	c-examples/c-example-code/queue_linked_list.c	/^  int value;$/;"	m	struct:Node	typeref:typename:int	file:
+var	C-Embedded-C/pointers.c	/^int var = 99 ;       \/\/ variable declaration $/;"	v	typeref:typename:int
+vector_add	c-examples/c-example-code/vector_add.c	/^void vector_add(float v1[], float v2[], float result[], int length)$/;"	f	typeref:typename:void
+verify_password	c-examples/c-example-code/verify_password.c	/^bool verify_password(char *p)$/;"	f	typeref:typename:bool
+vowel_count	c-examples/c-example-code/vowel_counter.c	/^int vowel_count(char *s)$/;"	f	typeref:typename:int
+word_count	c-examples/c-example-code/count_words.c	/^int word_count(char *s)$/;"	f	typeref:typename:int
+word_count	c-examples/c-example-code/word_count.c	/^int word_count(char *string, char *word)$/;"	f	typeref:typename:int
+write_balance	c-examples/c-example-code/mutex/bank.c	/^void write_balance(int new_balance)$/;"	f	typeref:typename:void
+write_balance	c-examples/c-example-code/race_condition_example/bank.c	/^void write_balance(int new_balance)$/;"	f	typeref:typename:void
+write_chunk	c-examples/c-example-code/libcurl_examples/store_http_response_into_string.c	/^size_t write_chunk(void *data, size_t size, size_t nmemb, void *userdata)$/;"	f	typeref:typename:size_t
+write_data	c-examples/c-example-code/struct_array_binary_file.c	/^bool write_data(char *filename, Student *data, int total)$/;"	f	typeref:typename:bool
+x	c-examples/c-example-code/arrow_operator.c	/^  int x;$/;"	m	struct:__anoneed18d9d0108	typeref:typename:int	file:
+x	c-examples/c-example-code/dynamic_array_of_structs.c	/^  int x;$/;"	m	struct:__anon5928a2d50108	typeref:typename:int	file:
+x	c-examples/c-example-code/local_vs_global_variables.c	/^int x = 1;$/;"	v	typeref:typename:int
+x	c-examples/c-example-code/struct.c	/^  int x;$/;"	m	struct:__anon2b3de8cc0208	typeref:typename:int	file:
+x	c-examples/c-example-code/structure_padding.c	/^  char x;$/;"	m	struct:data	typeref:typename:char	file:
+x	c-examples/c-example-code/unions.c	/^    char x[1024];$/;"	m	union:__anon207f29430108::__anon207f2943020a	typeref:typename:char[1024]	file:
+x	c-examples/c-example-code/unions.c	/^  int x;$/;"	m	struct:Data2	typeref:typename:int	file:
+x	c-examples/c-example-code/unions.c	/^  int x;$/;"	m	union:Data	typeref:typename:int	file:
+x	c-examples/c-example-code/variable_scope.c	/^int x = 2;$/;"	v	typeref:typename:int
+y	c-examples/c-example-code/arrow_operator.c	/^  int y;$/;"	m	struct:__anoneed18d9d0108	typeref:typename:int	file:
+y	c-examples/c-example-code/dynamic_array_of_structs.c	/^  int y;$/;"	m	struct:__anon5928a2d50108	typeref:typename:int	file:
+y	c-examples/c-example-code/struct.c	/^  int y;$/;"	m	struct:__anon2b3de8cc0208	typeref:typename:int	file:
+y	c-examples/c-example-code/structure_padding.c	/^  int y;$/;"	m	struct:data	typeref:typename:int	file:
+y	c-examples/c-example-code/unions.c	/^    float y[1024];$/;"	m	union:__anon207f29430108::__anon207f2943020a	typeref:typename:float[1024]	file:
+y	c-examples/c-example-code/unions.c	/^  double y;$/;"	m	struct:Data2	typeref:typename:double	file:
+y	c-examples/c-example-code/unions.c	/^  double y;$/;"	m	union:Data	typeref:typename:double	file:
+y	c-examples/c-example-code/variable_scope.c	/^int y = 3;$/;"	v	typeref:typename:int
+z	c-examples/c-example-code/unions.c	/^    double z[1024];$/;"	m	union:__anon207f29430108::__anon207f2943020a	typeref:typename:double[1024]	file:
+z	c-examples/c-example-code/unions.c	/^  char z[32];$/;"	m	struct:Data2	typeref:typename:char[32]	file:
+z	c-examples/c-example-code/unions.c	/^  char z[32];$/;"	m	union:Data	typeref:typename:char[32]	file:
